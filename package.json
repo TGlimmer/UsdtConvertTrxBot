@@ -1,0 +1,18 @@
+{
+  "name": "telegrambot-exchange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "mysql": "^2.18.1",
+    "node-telegram-bot-api": "^0.61.0",
+    "request-promise": "^4.2.6",
+    "tronweb": "^5.0.0"
+  }
+}
